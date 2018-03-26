@@ -30,7 +30,6 @@ void ShellSort(int n, int arr[])
 
 int main()
 {
-	 system("color A");
 	 setlocale(LC_ALL, "rus");
 
 	
@@ -562,7 +561,7 @@ for(int i=0;i<100;i++){
 }
 }
    cout << qw;
-   cout << "\ncreated by maridzhe feat. Inkognito\n" << endl;
+   cout << "\nError" << endl;
 system("pause");
 
 	}
