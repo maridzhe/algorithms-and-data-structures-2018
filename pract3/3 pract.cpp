@@ -534,7 +534,7 @@ int arr[256];
 
 
 
-cout << "Ââåäiòü íàçâó êîíòèíåíòó äëÿ ïîêàçó iíôîðìàöi¿ ïðî êðà¿íè : ";
+cout << "Ã‚Ã¢ÄºÃ¤iÅˆÃ¼ Ã­Å•Ã§Ã¢Ã³ Ä™Ã®Ã­ÅˆÄÃ­ÄºÃ­ÅˆÃ³ Ã¤Ã«Ë™ ÄÃ®Ä™Å•Ã§Ã³ iÃ­Ã´Ã®Ä‘Ä›Å•Ã¶iÅ¼ ÄÄ‘Ã® Ä™Ä‘Å•Å¼Ã­Ä : ";
 cin >> tempName;
 
 
@@ -549,20 +549,20 @@ for(int i=0;i<100;i++){
   
 
    
-                cout << "\nÌàññèâ çàïîëíÿåòñÿ, ïîäîæäèòå..." <<endl;
+                cout << "\nÄšÅ•Å„Å„ÄÃ¢ Ã§Å•ÄÃ®Ã«Ã­Ë™ÄºÅˆÅ„Ë™, ÄÃ®Ã¤Ã®Ä‡Ã¤ÄÅˆÄº..." <<endl;
                 size=qq;
                 ShellSort(qq, arr);
-                printf("\nÊðà¿íè : \n");
+                printf("\nÄ˜Ä‘Å•Å¼Ã­Ä : \n");
                 
     for (int i = 0; i < qq; i++){
     	for (int j = 0 ; j < 100; j++){
     if(arr[i]==naselenna[j])
-    cout <<"\nÍàçâà : "<< Name[j]<<"\nÍàñåëåííÿ : "<< naselenna[j]<<"\nÑòîëèöÿ : "<< city[j]<<"\nÏëîùà : "<<plosa[j]<<"\nÊîíòèíåíò : "<<kontinent[j]<<"\n\n";
+    cout <<"\nÃÅ•Ã§Ã¢Å• : "<< Name[j]<<"\nÃÅ•Å„ÄºÃ«ÄºÃ­Ã­Ë™ : "<< naselenna[j]<<"\nÅƒÅˆÃ®Ã«ÄÃ¶Ë™ : "<< city[j]<<"\nÄŽÃ«Ã®Å¯Å• : "<<plosa[j]<<"\nÄ˜Ã®Ã­ÅˆÄÃ­ÄºÃ­Åˆ : "<<kontinent[j]<<"\n\n";
    
 }
 }
    cout << qw;
-   cout << "\ncreated by amarsik1 feat. Inkognito\n" << endl;
+   cout << "\ncreated by maridzhe feat. Inkognito\n" << endl;
 system("pause");
 
 	}
