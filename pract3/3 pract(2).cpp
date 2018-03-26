@@ -43,103 +43,103 @@ int main()
 
 { 
 
-Name[1]="Àóðóì";
+Name[1]="Ã€Ã³Ã°Ã³Ã¬";
 klasR[1]="metal";
 masaR[1]=196;
 
-Name[2]="Ñðiáëî";
+Name[2]="Ã‘Ã°iÃ¡Ã«Ã®";
 klasR[2]="metal";
 masaR[2]=107;
 								     
-Name[3]="Ìiäü";
+Name[3]="ÃŒiÃ¤Ã¼";
 klasR[3]="metal";
 masaR[3]=63;
 
-Name[4]="Ðòóòü";
+Name[4]="ÃÃ²Ã³Ã²Ã¼";
 klasR[4]="metal";
 masaR[4]=200;
 
-Name[5]="Ñâèíåöü";
+Name[5]="Ã‘Ã¢Ã¨Ã­Ã¥Ã¶Ã¼";
 klasR[5]="metal";
 masaR[5]=207;
 
-Name[6]="Çàë³çî";
+Name[6]="Ã‡Ã Ã«Â³Ã§Ã®";
 klasR[6]="metal";
 masaR[6]=89;
 
-Name[7]="Ñòàíóì";
+Name[7]="Ã‘Ã²Ã Ã­Ã³Ã¬";
 klasR[7]="metal";
 masaR[7]=12;
 
-Name[8]="Ïëàòèíà";
+Name[8]="ÃÃ«Ã Ã²Ã¨Ã­Ã ";
 klasR[8]="metal";
 masaR[8]=195;
 
-Name[9]="Ñ³ðêà";
+Name[9]="Ã‘Â³Ã°ÃªÃ ";
 klasR[9]="nemetal";
 masaR[9]=32;
 
-Name[10]="Âóãëåöü";
+Name[10]="Ã‚Ã³Ã£Ã«Ã¥Ã¶Ã¼";
 klasR[10]="nemetal";
 masaR[10]=12;
 
-Name[11]="Öèíê";
+Name[11]="Ã–Ã¨Ã­Ãª";
 klasR[11]="metal";
 masaR[11]=65;
 
-Name[12]="Ñòèá³é";
+Name[12]="Ã‘Ã²Ã¨Ã¡Â³Ã©";
 klasR[12]="polymetal";
 masaR[12]=121;
 
-Name[13]="Àðñåí";
+Name[13]="Ã€Ã°Ã±Ã¥Ã­";
 klasR[13]="polymetal";
 masaR[13]=74;
 
-Name[14]="Ãåë³é";
+Name[14]="ÃƒÃ¥Ã«Â³Ã©";
 klasR[14]="nemetal";
 masaR[14]=4;
 
-Name[15]="Íåîí";
+Name[15]="ÃÃ¥Ã®Ã­";
 klasR[15]="nemetal";
 masaR[15]=20;
 
-Name[16]="Ôòîð";
+Name[16]="Ã”Ã²Ã®Ã°";
 klasR[16]="nemetal";
 masaR[16]=18;
 
-Name[17]="Õëîð";
+Name[17]="Ã•Ã«Ã®Ã°";
 klasR[17]="nemetal";
 masaR[17]=35;
 
-Name[18]="Ñåëåí";
+Name[18]="Ã‘Ã¥Ã«Ã¥Ã­";
 klasR[18]="nemetal";
 masaR[18]=78;
 
-Name[19]="Àñòàò";
+Name[19]="Ã€Ã±Ã²Ã Ã²";
 klasR[19]="nemetal";
 masaR[19]=209;
 
-Name[20]="Êðåìí³é";
+Name[20]="ÃŠÃ°Ã¥Ã¬Ã­Â³Ã©";
 klasR[20]="nemetal";
 masaR[20]=28;
 
-Name[21]="Êðèïòîí";
+Name[21]="ÃŠÃ°Ã¨Ã¯Ã²Ã®Ã­";
 klasR[21]="nemetal";
 masaR[21]=83;
 
-Name[22]="Ñêàíäié";
+Name[22]="Ã‘ÃªÃ Ã­Ã¤iÃ©";
 klasR[22]="metal";
 masaR[22]=45;
 
-Name[23]="Öèðêîíié";
+Name[23]="Ã–Ã¨Ã°ÃªÃ®Ã­iÃ©";
 klasR[23]="metal";
 masaR[23]=91;
 
-Name[24]="Êîáàëüò";
+Name[24]="ÃŠÃ®Ã¡Ã Ã«Ã¼Ã²";
 klasR[24]="metal";
 masaR[24]=59;
 
-Name[25]="Ïàëàäié";
+Name[25]="ÃÃ Ã«Ã Ã¤iÃ©";
 klasR[25]="metal";
 masaR[25]=106;
 
@@ -153,7 +153,7 @@ int arr[size];
 
 
 
-printf("Ââåäiòü êëàñ ðå÷îâèíè äëÿ ïîêàçó iíôîðìàöi¿ : ");
+printf("Ã‚Ã¢Ã¥Ã¤iÃ²Ã¼ ÃªÃ«Ã Ã± Ã°Ã¥Ã·Ã®Ã¢Ã¨Ã­Ã¨ Ã¤Ã«Ã¿ Ã¯Ã®ÃªÃ Ã§Ã³ iÃ­Ã´Ã®Ã°Ã¬Ã Ã¶iÂ¿ : ");
 cin >> tempName;
 
 
@@ -169,17 +169,17 @@ for(int i=0;i<size;i++){
 
    
                 ShellSort(qq, arr);
-                printf("\nÊðà¿íè : \n");
+                printf("\nÃŠÃ°Ã Â¿Ã­Ã¨ : \n");
                 
     for (int i = 0; i < qq; i++){
     	for (int j = 0 ; j < size; j++){
     if(arr[i]==masaR[j])
-    cout <<"\nÍàçâà : "<< Name[j]<<"\nÌàñà ðå÷îâèíè : "<< masaR[j]<<"\nÊëàñ ðå÷îâèíè : "<<klasR[j]<<"\n\n";
+    cout <<"\nÃÃ Ã§Ã¢Ã  : "<< Name[j]<<"\nÃŒÃ Ã±Ã  Ã°Ã¥Ã·Ã®Ã¢Ã¨Ã­Ã¨ : "<< masaR[j]<<"\nÃŠÃ«Ã Ã± Ã°Ã¥Ã·Ã®Ã¢Ã¨Ã­Ã¨ : "<<klasR[j]<<"\n\n";
    
 }
 }
    cout << qw;
-   cout << "\ncreated by amarsik1 feat. Inkognito\n" << endl;
+   cout << "\nError" << endl;
 system("pause");
 
 	}
